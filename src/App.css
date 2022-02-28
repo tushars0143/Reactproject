@@ -1,0 +1,130 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 0.5rem;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th{
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding: 17px 10px;
+  }
+
+  td {
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding: 0px 10px;
+    /* margin: -24px 0px; */
+    /* font-size: 50px; */
+  }
+  
+  th {
+    background-color: rgb(117, 201, 250);
+  }
+  
+  td {
+    background-color: rgb(205, 235, 253);
+  }
+  
+  form {
+    display: flex;
+    gap: 5px;
+  }
+  
+  form td:last-child {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  form * {
+    font-size: 10px;
+  }
+
+  button{
+    padding: 8px 36px;
+    margin: 15px 1px;
+    background-color: rgb(140, 118, 167);
+    /* background-color: rgb(205, 235, 253); */
+    cursor: pointer;
+    font-style: italic;
+    color: beige;
+}
+
+button:hover{
+  background-color: rgb(9, 105, 81);
+}
+
+.row{
+  height: 22vh;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  background-color: #5d4257;
+  background-image: linear-gradient(315deg, #5d4257 0%, #a5c7b7 74%);
+  }
+
+ .col-12 h1{
+    font-size: 4rem;
+    color: rgb(243 251 255);
+    position: absolute;
+    top: -55px;
+    right: -39px;
+    left: 90px;
+    padding: 21px 276px;
+    margin: 40px 31px;
+    text-decoration: underline;
+  } 
+
+.form-group{
+  font-size: 0px;
+  padding: 0px 32rem;
+  margin: 3px -3.5rem;
+  position: relative;
+  top: 2.5rem;
+}
+
+.fsize{
+    font-size: 20px;
+    position: absolute;
+    left: 29rem;
+}
+
+.form-group input{
+  margin: 3px 197px;
+  font-size: 20px;
+ }
+
+#btn button{
+  font-size: 26px;
+  padding: 9px 20rem;
+  margin: 10px -7rem;
+
+}
+
+.front{
+    height: 85vh;
+    width: 100%;
+    position: absolute;
+    top: 82px;
+    left: 0px;
+    background-color: #2f4353;
+    background-image: linear-gradient(315deg, #2f4353 0%, #d2ccc4 74%);    
+ }
+ 
+ .add-contact{
+    font-size: 15px;
+    padding: 1rem 1rem;
+    margin: 0rem 0rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #6b1e70;
+    border-radius: 7px;
+  }
+
+.add-contact:hover{
+ background-color: sienna;
+}

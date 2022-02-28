@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Tushar Soni",
+      "number": "8962635101",
+      "email": "tusharking21@gmail.com",
+      "experience": "0 year",
+      "currentCompany": "No",
+      "expectedCTC": "5 p.a.",
+      "currentCTC": "0",
+      "noticePeriod": "1 month",
+      "position": "software engineer",
+      "currentLocation": "mandsaur",
+      "prefferedLocation": "Ahmedabad"
+    },
+    
+    {
+      "id": 2,
+      "name": "Pooja Soni",
+      "number": "9713872369",
+      "email": "poojasoni@gmail.com",
+      "experience": "1 year",
+      "currentCompany": "amazon",
+      "expectedCTC": "18 p.a.",
+      "currentCTC": "12.5 p.a",
+      "noticePeriod": "6 month",
+      "position": " full stack developer",
+      "currentLocation": "delhi",
+      "prefferedLocation": "hyderabad"
+    },
+    
+    {
+      "id": 3,
+      "name": "Rachit nagda",
+      "number": "9708569320",
+      "email": "rachitnagda@gmail.com",
+      "experience": "1 year",
+      "currentCompany": "infosys",
+      "expectedCTC": "6.0 p.a.",
+      "currentCTC": "3.6 p.a",
+      "noticePeriod": "1 year",
+      "position": " python developer",
+      "currentLocation": "mandsaur",
+      "prefferedLocation": "banglore"
+    },
+    
+    {
+      "id": 4,
+      "name": "Ram",
+      "number": "9160408556",
+      "email": "ram123@gmail.com",
+      "experience": "3 year",
+      "currentCompany": "bitontree",
+      "expectedCTC": "5.0 p.a.",
+      "currentCTC": "3.6 p.a",
+      "noticePeriod": "6  month",
+      "position": " react developer",
+      "currentLocation": "indore",
+      "prefferedLocation": "gujrat"
+    },
+    {
+      "id": 5,
+      "name": "Anjali bhatnagar",
+      "number": "9713872369",
+      "email": "Anjali143@gmail.com",
+      "experience": "1 year",
+      "currentCompany": "amazon",
+      "expectedCTC": "8.0 p.a.",
+      "currentCTC": "6.2 p.a",
+      "noticePeriod": "1 year",
+      "position": " web developer",
+      "currentLocation": "indore",
+      "prefferedLocation": "pune"
+    }
+]
